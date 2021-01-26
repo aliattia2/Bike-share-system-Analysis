@@ -2,22 +2,18 @@
 
 
 We are performing exploratory and explanatory analysis to the data
+which is obtained from bike sharing system data to obtain useful visualization to give insights about users
 
 Main findings
-Maximum trip duration is 1424 minute
 
-Minimum trip duration is 1 minute
 
-most trips are from 1 minute to 50
+most trips Vary from 1 minute to 50
 
-most frequent trips are from 2 minutes to 20 minutes
+Subscriber clients have the largest share of using bikeshare Than casual customers
 
-Subscriber clients are have the largest share of using bikeshare
-
-this data belong to only one month
+this data belong to only one month (february)
 
 Bike rides decrease in saturday and sunday as they are holiday in most professions
-
 
 Male have more frequent trips with similar proportion to females and others
 
