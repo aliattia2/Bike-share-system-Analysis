@@ -4,6 +4,20 @@
 We are performing exploratory and explanatory analysis to the data
 which is obtained from bike sharing system data to obtain useful visualization to give insights about users
 
+
+Key insights
+We are making Univariate analysis to get the relation between trip duration and frequency to identify the most common trip Durations
+identifing the most common category that use bikes is it the subscriber who are regeistered to the system or the customers who are new to the system
+Identifing Relation between Clients age and Trips frequency
+distribution of trips among the whole year
+and distribution of trips among the weekdays
+
+Then we use bivariate analysis to know whether the age of User affect the distance of the trip through the most appropirate visualization
+
+also get the Relation between gender and Trip duration considering other factors
+
+Finally the multivariate analysis to identify the gender who spend more durations 
+
 Main findings
 
 
