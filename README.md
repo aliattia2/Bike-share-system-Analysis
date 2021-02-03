@@ -40,3 +40,4 @@ Resources
 https://stackoverflow.com/questions/8380389/how-to-get-day-name-from-datetime
 https://stackoverflow.com/questions/26133538/round-a-single-column-in-pandas
 https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.hist.html
+https://stackoverflow.com/questions/35364601/group-by-and-find-top-n-value-counts-pandas
